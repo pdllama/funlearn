@@ -1,0 +1,44 @@
+[
+    {
+        "plan_title": "Pay-as-you-go",
+        "plan_desc": "A pay-as-you-go plan intended for short-term arrangements that are less than 10 hours. Pay bi-weekly or monthly.",
+        "in_person_price": "60$/hour",
+        "virtual_price": "50$/hour"
+    },
+    {
+        "plan_title": "10-hour package",
+        "plan_desc": "Purchase the hours as a package and save 5$/hour. Intended for when your child just needs an extra boost.",
+        "in_person_price": "550$",
+        "virtual_price": "450$",
+        "save_per_hour_amt": 5
+    },
+    {
+        "plan_title": "15-hour package",
+        "plan_desc": "Purchase the hours as a package and save 6$/hour. Intended for when your child needs a short-term arrangement.",
+        "in_person_price": "810$",
+        "virtual_price": "660$",
+        "save_per_hour_amt": 6
+    },
+    {
+        "plan_title": "20-hour package",
+        "plan_desc": "Purchase the hours as a package and save 7$/hour. Intended for when your child needs a short/mid-term arrangement",
+        "in_person_price": "1060$",
+        "virtual_price": "860$",
+        "save_per_hour_amt": 7
+    },
+    {
+        "plan_title": "30-hour package",
+        "plan_desc": "Purchase the hours as a package and save 8$/hour. Intended for when your child needs a longer arrangement",
+        "in_person_price": "1560$",
+        "virtual_price": "1260$",
+        "save_per_hour_amt": 8
+    },
+    {
+        "plan_title": "60-hour package",
+        "plan_desc": "Purchase the hours as a package and save 10$/hour. Intended for when your child needs a long-term arrangement",
+        "in_person_price": "3000$",
+        "virtual_price": "2400$",
+        "save_per_hour_amt": 10
+    }
+    
+]
