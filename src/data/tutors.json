@@ -1,0 +1,170 @@
+[
+  {
+    "firstname": "Sarah",
+    "lastname": "Patel",
+    "subjects": ["Grade 1 Math", "Grade 2 Math", "Grade 3 Math", "Grade 3 Science"],
+    "blurb": "Hi! I'm Sarah, and I specialize in helping young learners build confidence in math and science. I teach Grades 1 through 3 and love turning challenging concepts into fun, engaging activities that students can relate to. Over the past 6 years, I've worked with elementary students in both classroom and one-on-one tutoring settings, helping them develop strong foundations that set them up for long-term success. I believe every child can enjoy learning when lessons are tailored to their unique needs and interests. Outside of tutoring, I enjoy baking, hiking local trails, and spending time with my family.",
+    "img": ""
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Chen",
+    "subjects": ["Grade 4 Math", "Grade 5 Math", "Grade 5 Science"],
+    "blurb": "Hello! My name is Michael, and I focus on helping Grade 4 and 5 students strengthen their understanding of math and science. I enjoy breaking down complex ideas into simple, easy-to-follow steps that make learning less intimidating. With over 8 years of tutoring experience, I've worked with students of all confidence levels and take pride in helping them achieve meaningful progress. Seeing students develop a growth mindset is one of the most rewarding parts of my work. In my free time, I enjoy photography, playing basketball, and exploring new coffee shops.",
+    "img": ""
+  },
+  {
+    "firstname": "Emily",
+    "lastname": "Rodriguez",
+    "subjects": ["Grade 6 English", "Grade 7 English", "Grade 7 Social Studies"],
+    "blurb": "Hi there! I'm Emily, and I'm passionate about helping middle school students become stronger readers, writers, and critical thinkers. I teach English and Social Studies for Grades 6 and 7, focusing on building communication skills and confidence. I've been tutoring for over 5 years and love helping students discover that writing can be both creative and enjoyable. My goal is always to create a supportive environment where students feel comfortable asking questions and expressing themselves. When I'm not tutoring, you'll find me reading historical fiction, traveling, or practicing yoga.",
+    "img": ""
+  },
+  {
+    "firstname": "Ahmed",
+    "lastname": "Hassan",
+    "subjects": ["Grade 8 Math", "Grade 8 Science", "Grade 9 Math"],
+    "blurb": "Hello! I'm Ahmed, and I specialize in mathematics and science for Grades 8 and 9. I've always enjoyed solving problems and helping students understand the logic behind concepts rather than simply memorizing procedures. During my 7 years as a tutor, I've helped many students improve their grades while also developing confidence in their abilities. I believe learning should be interactive, practical, and engaging. Outside of tutoring, I enjoy soccer, coding personal projects, and keeping up with the latest technology trends.",
+    "img": ""
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Thompson",
+    "subjects": ["Grade 9 English", "Grade 10 English", "Grade 10 History"],
+    "blurb": "Hi! I'm Jessica, and I teach English and History at the high school level. I love helping students improve their writing, analytical thinking, and reading comprehension skills. Over the last decade, I've worked with students preparing for essays, presentations, and exams, and I enjoy seeing them gain confidence in expressing their ideas. Education has always been a passion of mine, and I strive to make every lesson both challenging and encouraging. In my spare time, I enjoy creative writing, visiting museums, and gardening.",
+    "img": ""
+  },
+  {
+    "firstname": "David",
+    "lastname": "Kim",
+    "subjects": ["Grade 10 Math", "Grade 11 Functions", "Grade 11 Physics"],
+    "blurb": "Hello! My name is David, and I specialize in mathematics and physics for senior high school students. I enjoy helping students understand the connections between formulas, real-world applications, and problem-solving techniques. With over 9 years of tutoring experience, I've guided many students through challenging courses and exam preparation. My teaching style focuses on clarity, patience, and building confidence step by step. Outside of academics, I enjoy playing piano, hiking, and watching documentaries about science and engineering.",
+    "img": ""
+  },
+  {
+    "firstname": "Priya",
+    "lastname": "Sharma",
+    "subjects": ["Grade 11 Biology", "Grade 12 Biology", "Grade 12 Chemistry"],
+    "blurb": "Hi everyone! I'm Priya, and I teach Biology and Chemistry to senior high school students. I've always been fascinated by the life sciences and enjoy helping students understand how scientific concepts apply to everyday life. Over the past 8 years, I've tutored students preparing for university programs in health sciences and medicine. I believe curiosity is one of the most important ingredients for learning, and I strive to make every lesson engaging and meaningful. In my free time, I enjoy cooking, nature photography, and volunteering in my community.",
+    "img": ""
+  },
+  {
+    "firstname": "James",
+    "lastname": "Walker",
+    "subjects": ["Grade 12 Advanced Functions", "Grade 12 Calculus", "Grade 12 Physics"],
+    "blurb": "Hello! I'm James, and I focus on advanced mathematics and physics for Grade 12 students. My goal is to help students not only succeed academically but also develop strong analytical thinking skills that will benefit them beyond the classroom. I've spent more than 12 years tutoring and mentoring students preparing for university STEM programs. I enjoy making difficult topics approachable and helping students build confidence through practice and understanding. When I'm not teaching, I enjoy cycling, woodworking, and spending time outdoors.",
+    "img": ""
+  },
+  {
+    "firstname": "Maria",
+    "lastname": "Garcia",
+    "subjects": ["Grade 2 Reading", "Grade 3 English", "Grade 4 English"],
+    "blurb": "Hi! I'm Maria, and I specialize in literacy and language development for elementary students. Helping children become confident readers and writers is something I'm deeply passionate about. With over 7 years of experience working with young learners, I've developed creative approaches that make learning enjoyable and effective. I believe every child deserves individualized support and encouragement. Outside of tutoring, I love painting, reading children's literature, and spending time with my two dogs.",
+    "img": ""
+  },
+  {
+    "firstname": "Ethan",
+    "lastname": "Nguyen",
+    "subjects": ["Grade 7 Math", "Grade 8 Math", "Grade 8 Coding Fundamentals"],
+    "blurb": "Hello! I'm Ethan, and I enjoy helping middle school students build confidence in math and introductory coding. I love showing students how logical thinking and problem-solving skills can be applied both inside and outside the classroom. For the past 5 years, I've worked with students who want to strengthen their academic performance while developing practical skills. My lessons are interactive, engaging, and tailored to each student's learning style. In my spare time, I enjoy building software projects, gaming, and playing badminton.",
+    "img": ""
+  },
+  {
+    "firstname": "Aisha",
+    "lastname": "Khan",
+    "subjects": ["Grade 5 English", "Grade 6 English", "Grade 6 Social Studies"],
+    "blurb": "Hi! I'm Aisha, and I teach English and Social Studies to upper elementary and middle school students. I love helping students improve their reading comprehension, writing abilities, and critical thinking skills. I've spent over 6 years tutoring learners from diverse backgrounds and enjoy creating lessons that connect academic concepts to students' interests. Building confidence and curiosity is always my priority. Outside of tutoring, I enjoy traveling, trying new recipes, and attending community events.",
+    "img": ""
+  },
+  {
+    "firstname": "Lucas",
+    "lastname": "Martins",
+    "subjects": ["Grade 9 Science", "Grade 10 Science", "Grade 10 Math"],
+    "blurb": "Hello! My name is Lucas, and I focus on science and mathematics for Grades 9 and 10. I enjoy helping students understand not just what to learn, but why concepts work the way they do. Over the years, I've supported students through coursework, projects, and exam preparation, helping them achieve their academic goals. I believe learning should be engaging, practical, and confidence-building. In my free time, I enjoy soccer, fitness training, and exploring the outdoors.",
+    "img": ""
+  },
+  {
+    "firstname": "Olivia",
+    "lastname": "Brown",
+    "subjects": ["Grade 11 English", "Grade 12 English", "Grade 12 Writer's Craft"],
+    "blurb": "Hi there! I'm Olivia, and I specialize in English and writing-focused courses for senior high school students. I love helping students strengthen their essays, literary analysis, and communication skills. With more than 9 years of tutoring experience, I've guided many students through university applications and advanced writing assignments. My teaching approach emphasizes critical thinking, creativity, and confidence. Outside of tutoring, I enjoy book clubs, theater performances, and creative writing.",
+    "img": ""
+  },
+  {
+    "firstname": "Samuel",
+    "lastname": "Johnson",
+    "subjects": ["Grade 11 Chemistry", "Grade 12 Chemistry", "Grade 12 Physics"],
+    "blurb": "Hello! I'm Samuel, and I teach Chemistry and Physics at the senior high school level. I've always been fascinated by how scientific principles explain the world around us, and I enjoy sharing that excitement with my students. Over the past decade, I've helped students prepare for exams, improve grades, and pursue STEM-related academic paths. My lessons focus on understanding concepts deeply rather than memorizing information. Outside the classroom, I enjoy astronomy, cycling, and playing guitar.",
+    "img": ""
+  },
+  {
+    "firstname": "Fatima",
+    "lastname": "El-Sayed",
+    "subjects": ["Grade 3 Math", "Grade 4 Math", "Grade 4 Science"],
+    "blurb": "Hi! I'm Fatima, and I work primarily with elementary students in math and science. I enjoy helping young learners discover that problem-solving can be fun and rewarding. With 5 years of tutoring experience, I've developed engaging strategies that keep students motivated while building strong foundational skills. Every student learns differently, and I take pride in adapting lessons to fit individual needs. When I'm not tutoring, I enjoy crafting, baking, and spending time with friends and family.",
+    "img": ""
+  },
+  {
+    "firstname": "Ryan",
+    "lastname": "O'Connor",
+    "subjects": ["Grade 9 Geography", "Grade 10 History", "Grade 10 Civics"],
+    "blurb": "Hello! My name is Ryan, and I specialize in social sciences and humanities subjects. I love helping students connect historical events and geographic concepts to the world they see around them today. Over the last 8 years, I've worked with students to improve research skills, critical thinking, and academic writing. My lessons encourage curiosity and thoughtful discussion. Outside of teaching, I enjoy hiking, photography, and exploring historical sites.",
+    "img": ""
+  },
+  {
+    "firstname": "Mei",
+    "lastname": "Lin",
+    "subjects": ["Grade 1 Reading", "Grade 2 Reading", "Grade 2 Math"],
+    "blurb": "Hi! I'm Mei, and I work with young learners who are developing foundational reading and math skills. I believe early academic success starts with creating a positive and encouraging learning environment. For more than 6 years, I've helped students build confidence and establish strong learning habits. I love seeing students become excited about their progress and achievements. In my spare time, I enjoy drawing, gardening, and practicing calligraphy.",
+    "img": ""
+  },
+  {
+    "firstname": "Daniel",
+    "lastname": "Singh",
+    "subjects": ["Grade 11 Computer Science", "Grade 12 Computer Science", "Grade 12 Advanced Functions"],
+    "blurb": "Hello! I'm Daniel, and I teach Computer Science and advanced mathematics. I'm passionate about technology and enjoy helping students develop both coding skills and logical thinking abilities. With over 7 years of tutoring experience, I've worked with students preparing for university programs in computer science, engineering, and related fields. My lessons focus on practical understanding and real-world applications. Outside of tutoring, I enjoy programming, robotics projects, and playing tennis.",
+    "img": ""
+  },
+  {
+    "firstname": "Sofia",
+    "lastname": "Petrova",
+    "subjects": ["Grade 6 Math", "Grade 7 Math", "Grade 7 Science"],
+    "blurb": "Hi! I'm Sofia, and I specialize in math and science for middle school students. I enjoy helping learners develop strong problem-solving skills while building confidence in their abilities. Over the years, I've worked with students who needed support, enrichment, or exam preparation, and I always tailor lessons to their goals. Watching students grow academically is incredibly rewarding. Outside of tutoring, I enjoy figure skating, reading mystery novels, and traveling.",
+    "img": ""
+  },
+  {
+    "firstname": "Benjamin",
+    "lastname": "Clark",
+    "subjects": ["Grade 12 Economics", "Grade 12 Business Leadership", "Grade 11 Accounting"],
+    "blurb": "Hello! My name is Benjamin, and I teach business, economics, and accounting courses at the high school level. I enjoy helping students understand how classroom concepts connect to real-world financial and business decisions. With nearly a decade of tutoring and mentoring experience, I've worked with students pursuing business, commerce, and economics programs. My goal is to make learning practical, engaging, and relevant. In my free time, I enjoy investing, reading biographies, and playing golf.",
+    "img": ""
+  },
+  {
+    "firstname": "Nadia",
+    "lastname": "Rahman",
+    "subjects": ["Grade 8 English", "Grade 9 English", "Grade 9 History"],
+    "blurb": "Hi! I'm Nadia, and I teach English and History to students transitioning into high school. I enjoy helping students strengthen their writing, reading comprehension, and analytical thinking skills. For over 6 years, I've worked with learners from a variety of backgrounds and love helping them gain confidence in their academic abilities. I believe education should be both challenging and enjoyable. Outside of tutoring, I enjoy photography, baking, and exploring local art exhibits.",
+    "img": ""
+  },
+  {
+    "firstname": "Victor",
+    "lastname": "Mendoza",
+    "subjects": ["Grade 10 Functions", "Grade 11 Functions", "Grade 11 Physics"],
+    "blurb": "Hello! I'm Victor, and I focus on mathematics and physics for high school students. I enjoy helping learners move beyond memorization and truly understand the reasoning behind concepts and formulas. With over 8 years of tutoring experience, I've supported students preparing for major assessments and university prerequisites. My lessons are structured, supportive, and tailored to individual goals. Outside of tutoring, I enjoy chess, mountain biking, and learning new languages.",
+    "img": ""
+  },
+  {
+    "firstname": "Grace",
+    "lastname": "Wilson",
+    "subjects": ["Grade 4 English", "Grade 5 English", "Grade 5 Reading"],
+    "blurb": "Hi! I'm Grace, and I love helping students develop strong literacy skills and a lifelong appreciation for reading. I teach English and reading-focused subjects for Grades 4 and 5, creating lessons that are both engaging and confidence-building. Over the past 7 years, I've helped many students improve their comprehension, vocabulary, and writing skills. I believe every student can thrive with the right support and encouragement. Outside of tutoring, I enjoy book collecting, knitting, and spending time in nature.",
+    "img": ""
+  },
+  {
+    "firstname": "Arjun",
+    "lastname": "Desai",
+    "subjects": ["Grade 11 Biology", "Grade 11 Chemistry", "Grade 12 Biology"],
+    "blurb": "Hello! I'm Arjun, and I specialize in senior-level biology and chemistry courses. I've always been passionate about science and enjoy helping students connect textbook concepts to real-world applications. During my 9 years as a tutor, I've supported students preparing for university programs in health sciences, nursing, and medicine. My teaching style emphasizes understanding, curiosity, and active learning. Outside of academics, I enjoy hiking, cooking, and volunteering at community science events.",
+    "img": ""
+  }
+]

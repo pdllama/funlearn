@@ -21,7 +21,7 @@ export default function Plans({handleClose}:any) {
     }, [])
 
     return (
-    <main className=' py-[35px] gap-[30px] flex flex-col items-center h-fit w-full'>
+    <main className='py-[35px] gap-[30px] flex flex-col items-center h-fit w-full'>
         <div className='flex flex-col items-center h-fit w-full px-[10px] xs:px-[25px]'>
             <h1 className='text-beeg text-black'>Our Plans</h1>
             <div className='grid grid-cols-1 sm-md:grid-cols-2 lg:grid-cols-3 gap-[10px] px-[1px]'>
@@ -35,6 +35,7 @@ export default function Plans({handleClose}:any) {
                             in_person_price={p.in_person_price}
                             virtual_price={p.virtual_price}
                             save_per_hour_amt={p.save_per_hour_amt}
+                            value={p.plan_value}
                         />
                     )
                 })}

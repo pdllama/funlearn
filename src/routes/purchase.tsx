@@ -1,6 +1,6 @@
 import { useLocation, useParams } from "react-router"
 import TextInput from "../components/common/input/textinput";
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import ToggleButton from "../components/common/button/togglebutton";
 import Button from "../components/common/button/button";
 import Select from "../components/common/select/select";
@@ -101,6 +101,10 @@ export default function Purchase({}) {
             }, 2000)
         }, 300)
     }
+
+    useEffect(() => {
+        window.scrollTo(0, 0)
+    }, [])
 
     return (
         <main className='flex flex-col items-center gap-[10px] py-[30px] p-[5px] ssm:p-[30px]'>

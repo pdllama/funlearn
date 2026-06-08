@@ -32,6 +32,9 @@ export default function HomePage({}) {
                     <p className='leading-[100%] text-center text-smol'>
                         At FunLearn, we believe teachers should strive to make learning personalized and enjoyable. With over 2000+ satisfied students, your child is certain to learn and have fun!
                     </p>
+                    <p className='leading-[100%] text-center text-smol'>
+                        We tutor students from Grades 1-12!
+                    </p>
                     <div className='flex flex-col sm:flex-row items-center justify-center gap-[10px]'>
                         <Button
                             size='smol'

@@ -1,18 +1,20 @@
+import { useNavigate } from "react-router"
 import Button from "../button/button"
 
 export default function PlanCard({
     plan_title, plan_desc,
     in_person_price, virtual_price,
-    save_per_hour_amt
+    save_per_hour_amt, value
 }:any) {
 
+    const navigate = useNavigate()
     const true_gap = save_per_hour_amt ? 'gap-[80px]' : 'gap-[50px]'
 
 
     return (
         <section className='h-[460px] w-[296px] flex flex-col p-0 bg-primary border border-black rounded-[20px]'>
             <div className='w-full h-[179px] relative'>
-                {/** Image Container */}
+                <img src={`plans/${value}.jpg`} className='size-full rounded-t-[20px]'/>
                 {save_per_hour_amt &&
                     <div className='size-fit absolute bottom-[0px] left-[0px] rounded-[5px] bg-white flex justify-center items-center z-3 px-[10px]'>
                         <p className='text-secondary text-half-smol'><i>Save {save_per_hour_amt}$/hour</i></p>
@@ -35,7 +37,7 @@ export default function PlanCard({
                     </div>
                 </div>
 
-                <Button size='supa-smol'>Buy Now</Button>
+                <Button size='supa-smol' onClick={() => navigate(`/plans/${value}/purchase`)}>Buy Now</Button>
             </div>
         </section>
     )

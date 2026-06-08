@@ -7,6 +7,8 @@ import HomePage from './routes/home'
 import Plans from './routes/plans'
 import ContactModal from './components/contactmodal/contactmodal'
 import Purchase from './routes/purchase'
+import Tutors from './routes/tutors'
+import AboutUs from './routes/about'
 
 function App() {
 
@@ -23,6 +25,8 @@ function App() {
           
         </Route>
         <Route path='plans/:package_name/purchase' element={<Purchase/>}></Route>
+        <Route path='tutors' element={<Tutors/>}></Route>
+        <Route path='about-us' element={<AboutUs/>}></Route>
 
       </Routes>
     </BrowserRouter>

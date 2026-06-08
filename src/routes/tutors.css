@@ -1,0 +1,13 @@
+
+.tutor-card-color:nth-child(odd) {
+    background-color: var(--secondary-alt);
+    .tag-coloring {
+        color: var(--primary-darker);
+    }
+}
+
+
+
+.tutor-card-color:nth-child(odd).tag-coloring {
+    color: var(--primary)
+}
