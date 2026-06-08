@@ -1,7 +1,7 @@
 
 import TutorCard from "../components/common/cards/tutorcard";
 import "./tutors.css"
-import tutors from "@data/tutors.json" with {type:"json"};
+import tutors from "../data/tutors.json" with {type:"json"};
 
 export default function Tutors({}) {
 

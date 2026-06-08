@@ -1,4 +1,4 @@
-import { useLocation, useParams } from "react-router"
+import { useParams } from "react-router"
 import TextInput from "../components/common/input/textinput";
 import { useState, useRef, useEffect } from "react";
 import ToggleButton from "../components/common/button/togglebutton";

@@ -1,6 +1,6 @@
-import plans from "@data/plans.json" with {type:"json"};
-import PlanCard from "@components/common/cards/plancard";
-import Button from '@components/common/button/button';
+import plans from "../data/plans.json" with {type:"json"};
+import PlanCard from "../components/common/cards/plancard";
+import Button from "../components/common/button/button";
 import { useRef, useEffect } from "react";
 import { useLocation } from "react-router";
 
